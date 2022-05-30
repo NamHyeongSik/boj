@@ -10,7 +10,10 @@ https://code.plus/course/53 -> 문제
 모든 문제를 풀어보진 않을 것이며 기초 -> 연습 -> 문제 순으로 풀 예정입니다.
 
 ## 기초
-### 브루트 포스
+
+<details>
+<summary>브루트 포스</summary>
+<div markdown="1">
 브루트 포스 - 재귀
 
   - [ ] 9095번 - 1, 2, 3 더하기
@@ -36,7 +39,13 @@ https://code.plus/course/53 -> 문제
   - [ ] 14889번 - 스타트와 링크
   - [ ] 14391번 - 종이 조각
 
-### 다이나믹 프로그래밍
+</div>
+</details>
+
+<details>
+<summary>다이나믹 프로그래밍</summary>
+<div markdown="1">
+
 다이나믹 프로그래밍 Part 1
 
   - [ ] 1463번 - 1로 만들기
@@ -68,6 +77,10 @@ https://code.plus/course/53 -> 문제
 11054번 - 가장 긴 바이토닉 부분 수열
 13398번 - 연속합 2
 2133번 - 타일 채우기
+
+</div>
+</details>
+
 ## 연습
 
 ## 문제
