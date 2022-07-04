@@ -5,9 +5,15 @@ https://code.plus/course/52 -> 연습
 
 https://code.plus/course/53 -> 문제
 
+https://www.acmicpc.net/step -> 단계별로 풀어보기
+
+언어 = C++
+
 코딩테스트를 준비하면서 백준홈페이지에 있는 강의에 올라와 있는 문제들을 순서대로 풀어보았습니다.
 
 모든 문제를 풀어보진 않을 것이며 기초 -> 연습 -> 문제 순으로 풀 예정입니다.
+
+단계별로 풀어보기는 하루에 하나씩은 풀어볼 예정입니다. 이미 이전에 풀었었던 문제들도 많아서 없는 문제가 있을 수 있습니다.
 
 ## 기초
 
@@ -221,3 +227,21 @@ BFS 알고리즘
 </details>
 
 ## 문제
+
+## 단계별로 풀어보기
+
+<details>
+<summary>기본 수학1</summary>
+<div markdown="1">
+  - [x] 10757번 - 큰 수 A + B -> SUCCESS
+</div>
+</details>
+
+<details>
+<summary>집합과 맵</summary>
+<div markdown="1">
+  - [x] 1620번 - 나는야 포켓몬 마스터 이다솜 -> SUCCESS
+  - [x] 1764번 - 듣보잡 -> SUCCESS
+
+</div>
+</details>
