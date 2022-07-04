@@ -245,3 +245,12 @@ BFS 알고리즘
 
 </div>
 </details>
+
+<details>
+<summary>기하 1</summary>
+<div markdown="1">
+  - [ ] 2477번 - 참외밭
+  - [ ] 1358번 - 하키
+
+</div>
+</details>
