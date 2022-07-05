@@ -242,15 +242,13 @@ BFS 알고리즘
 <div markdown="1">
   - [x] 1620번 - 나는야 포켓몬 마스터 이다솜 -> SUCCESS
   - [x] 1764번 - 듣보잡 -> SUCCESS
-
 </div>
 </details>
 
 <details>
 <summary>기하 1</summary>
 <div markdown="1">
-  - [ ] 2477번 - 참외밭
-  - [ ] 1358번 - 하키
-
+  - [x] 2477번 - 참외밭 -> FAIL
+  - [x] 1358번 - 하키 -> SUCCESS
 </div>
 </details>
