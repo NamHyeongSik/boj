@@ -252,3 +252,13 @@ BFS 알고리즘
   - [x] 1358번 - 하키 -> SUCCESS
 </div>
 </details>
+
+
+<details>
+<summary>누적합</summary>
+<div markdown="1">
+  - [x] 16139번 - 인간-컴퓨터 상호작용 -> SUCCESS
+  - [x] 10986번 - 나머지 합 -> FAIL
+  - [x] 11660번 - 구간 합 구하기 5 -> FAIL
+</div>
+</details>
