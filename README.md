@@ -262,3 +262,12 @@ BFS 알고리즘
   - [x] 11660번 - 구간 합 구하기 5 -> FAIL
 </div>
 </details>
+
+<details>
+<summary>스택</summary>
+<div markdown="1">
+  - [x] 10773번 - 제로 -> SUCCESS
+  - [x] 1874번 - 스택 수열 -> FAIL
+  - [x] 17298번 - 오큰수 -> SUCCESS
+</div>
+</details>
