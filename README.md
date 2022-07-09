@@ -280,3 +280,12 @@ BFS 알고리즘
   - [x] 1021번 - 회전하는 큐 -> SUCCESS
 </div>
 </details>
+
+<details>
+<summary>이분탐색</summary>
+<div markdown="1">
+  - [x] 2110번 - 공유기 설치 -> FAIL
+  - [x] 1300번 - K번째 수 -> FAIL
+  - [ ] 12015번 - 가장 긴 증가하는 부분 수열 2
+</div>
+</details>
