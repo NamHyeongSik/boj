@@ -233,6 +233,7 @@ BFS 알고리즘
 <details>
 <summary>기본 수학1</summary>
 <div markdown="1">
+
   - [x] 10757번 - 큰 수 A + B -> SUCCESS
 </div>
 </details>
@@ -240,6 +241,7 @@ BFS 알고리즘
 <details>
 <summary>집합과 맵</summary>
 <div markdown="1">
+
   - [x] 1620번 - 나는야 포켓몬 마스터 이다솜 -> SUCCESS
   - [x] 1764번 - 듣보잡 -> SUCCESS
 </div>
@@ -248,6 +250,7 @@ BFS 알고리즘
 <details>
 <summary>기하 1</summary>
 <div markdown="1">
+
   - [x] 2477번 - 참외밭 -> FAIL
   - [x] 1358번 - 하키 -> SUCCESS
 </div>
@@ -257,6 +260,7 @@ BFS 알고리즘
 <details>
 <summary>누적합</summary>
 <div markdown="1">
+
   - [x] 16139번 - 인간-컴퓨터 상호작용 -> SUCCESS
   - [x] 10986번 - 나머지 합 -> FAIL
   - [x] 11660번 - 구간 합 구하기 5 -> FAIL
@@ -266,6 +270,7 @@ BFS 알고리즘
 <details>
 <summary>스택</summary>
 <div markdown="1">
+
   - [x] 10773번 - 제로 -> SUCCESS
   - [x] 1874번 - 스택 수열 -> FAIL
   - [x] 17298번 - 오큰수 -> SUCCESS
@@ -284,6 +289,7 @@ BFS 알고리즘
 <details>
 <summary>이분탐색</summary>
 <div markdown="1">
+
   - [x] 2110번 - 공유기 설치 -> FAIL
   - [x] 1300번 - K번째 수 -> FAIL
   - [x] 12015번 - 가장 긴 증가하는 부분 수열 2 -> FAIL
@@ -293,6 +299,7 @@ BFS 알고리즘
 <details>
 <summary>동적 계획법 2</summary>
 <div markdown="1">
+
   - [x] 11066번 - 파일 합치기 -> FAIL
   - [x] 11049번 - 행렬 곱셈 순서 -> SUCCESS
   - [x] 1520번 - 내리막 길 -> FAIL
@@ -306,6 +313,7 @@ BFS 알고리즘
 <details>
 <summary>그래프와 순회</summary>
 <div markdown="1">
+
   - [x] 24479번 - 알고리즘 수업 - 깊이 우선 탐색 1 -> SUCCESS
   - [x] 24480번 - 알고리즘 수업 - 깊이 우선 탐색 2 -> SUCCESS
   - [x] 24444번 - 알고리즘 수업 - 너비 우선 탐색 1 -> SUCCESS
@@ -328,6 +336,7 @@ BFS 알고리즘
 <details>
 <summary>최단 경로</summary>
 <div markdown="1">
+
   - [x] 1753번 - 최단경로 -> FAIL
   - [x] 1504번 - 특정한 최단 경로 -> FAIL
   - [x] 13549번 - 숨바꼭질 3 -> SUCCESS
@@ -341,6 +350,7 @@ BFS 알고리즘
 <details>
 <summary>투 포인터</summary>
 <div markdown="1">
+
   - [x] 3273번 - 두 수의 합 -> SUCCESS
   - [x] 2470번 - 두 용액 -> FAIL
   - [x] 1806번 - 부분합 -> SUCCESS
@@ -352,6 +362,7 @@ BFS 알고리즘
 <details>
 <summary>동적 계획법과 최단거리 역추적</summary>
 <div markdown="1">
+
   - [x] 12852번 - 1로 만들기 2 -> FAIL
   - [x] 14002번 - 가장 긴 증가하는 부분 수열 4 -> SUCCESS
   - [x] 14003번 - 가장 긴 증가하는 부분 수열 5 -> FAIL
