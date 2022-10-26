@@ -397,8 +397,8 @@ BFS 알고리즘
 <summary>Union Find</summary>
 <div markdown="1">
 
-  - [ ] 1717번 - 집합 표본
-  - [ ] 1976번 - 여행 가자
+  - [x] 1717번 - 집합 표본 -> SUCCESS
+  - [x] 1976번 - 여행 가자 -> SUCCESS
   - [ ] 4195번 - 친구 네트워크
   - [ ] 20040번 - 사이클 게임
 
