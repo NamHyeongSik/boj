@@ -280,6 +280,8 @@ BFS 알고리즘
 <details>
 <summary>큐</summary>
 <div markdown="1">
+
+  - [x] 15828번 - Router -> SUCCESS
   - [x] 11866번 - 요세푸스 문제 0 -> SUCCESS
   - [x] 1966번 - 프린터 큐 -> SUCCESS
   - [x] 1021번 - 회전하는 큐 -> SUCCESS
