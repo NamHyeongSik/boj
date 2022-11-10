@@ -278,13 +278,23 @@ BFS 알고리즘
 </details>
 
 <details>
-<summary>큐</summary>
+<summary>큐/덱</summary>
 <div markdown="1">
 
   - [x] 15828번 - Router -> SUCCESS
   - [x] 11866번 - 요세푸스 문제 0 -> SUCCESS
   - [x] 1966번 - 프린터 큐 -> SUCCESS
   - [x] 1021번 - 회전하는 큐 -> SUCCESS
+</div>
+</details>
+
+<details>
+<summary>분할정복</summary>
+<div markdown="1">
+
+  - [x] 1780번 - 종이의 개수 -> SUCCESS
+  - [ ] 11444번 - 피보나치 수 6
+  - [ ] 6549번 - 히스토그램에서 가장 큰 직사각형
 </div>
 </details>
 
