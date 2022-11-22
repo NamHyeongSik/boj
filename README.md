@@ -323,6 +323,18 @@ BFS 알고리즘
 </details>
 
 <details>
+<summary>스택 2</summary>
+<div markdown="1">
+
+  - [ ] 9935번 - 문자열 폭발
+  - [ ] 17298번 - 오큰수
+  - [ ] 17299번 - 오등큰수
+  - [ ] 1725번 - 히스토그램
+  - [ ] 3015번 - 오아시스 재결합
+</div>
+</details>
+
+<details>
 <summary>그래프와 순회</summary>
 <div markdown="1">
 
